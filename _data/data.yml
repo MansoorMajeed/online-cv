@@ -53,12 +53,12 @@ experiences:
       time: 2020 - Present
       company: Vimeo
       details: |
-        - Making sure vimeo.com stays up, with more seriousness ;) 
+       - Managing the vimeo cloud infrastructure
     - role: Site Reliability Engineer
       time: 2016-2020
       company: Vimeo
       details: |
-       - Making sure vimeo.com stays up
+       - Managing the vimeo cloud infrastructure
     - role: R&D Engineer
       time: 2014-2016
       company: AdminAhead Server Technologies
@@ -90,25 +90,27 @@ projects:
 #         authors: Donald E. Knuth
 #         conference: Addison-Wesley, 1968
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Linux
-        level: 95%
-
-      - name: Python
-        level: 90%
-
-      - name: Golang
-        level: 50%
-
-      - name: Kubernetes
-        level: 80%
-
-      - name: Google Cloud
-        level: 95%
-
+        # skills:
+        #     title: Skills &amp; Proficiency
+        # 
+        #     toolset:
+        #       - name: Linux
+        #         level: 95%
+        # 
+        #       - name: Python
+        #         level: 90%
+        # 
+        #       - name: Golang
+        #         level: 50%
+        # 
+        #       - name: Kubernetes
+        #         level: 80%
+        # 
+        #       - name: Google Cloud
+        #         level: 95%
+        # 
+        #       - name: AWS (I hate it)
+        #         level: 30%
 
 footer: >
     Copyright 2020
